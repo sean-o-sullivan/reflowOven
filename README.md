@@ -1,5 +1,5 @@
 **Note**
-Here are the other repositories we used when developing Forcefield's App and sensor modules code.
+Here are the other repositories we used when developing _Forcefield_'s App and sensor modules code.
 
 https://github.com/ETM-Code/forceField
 
